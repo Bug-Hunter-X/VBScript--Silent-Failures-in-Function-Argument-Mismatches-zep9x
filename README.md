@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in VBScript: incorrect argument counts in function calls.  VBScript's flexible nature can mask these errors, making them difficult to identify. The `bug.vbs` file shows an example of this issue, while `bugSolution.vbs` provides a corrected version with robust argument handling.
